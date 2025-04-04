@@ -1,0 +1,140 @@
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"media-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-01T07:48:44.106Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"media-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-01T07:48:44.117Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"media-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-01T08:09:37.547Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"media-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-01T08:09:51.636Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"media-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-01T08:10:37.584Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:12:20.233Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:12:20.811Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:13:24.564Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:13:25.114Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:26:30.205Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:26:30.894Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T08:26:37.069Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T08:26:37.069Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T08:26:37.078Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T08:26:37.079Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T08:26:37.080Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:26:38.443Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key '164917617125487',","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:26:38.444Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:26:38.445Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:29:09.695Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:29:10.362Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T08:29:14.204Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T08:29:14.204Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T08:29:14.213Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T08:29:14.214Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T08:29:14.215Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:29:15.638Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key '164917617125487',","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:29:15.641Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:29:15.642Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:35:33.812Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:35:34.506Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T08:35:39.431Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T08:35:39.432Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T08:35:39.440Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T08:35:39.442Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T08:35:39.442Z"}
+{"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T08:35:40.862Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key 164917617125487,","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T08:35:40.863Z"}
+{"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T08:35:40.864Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T08:42:49.503Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T08:42:50.045Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T08:42:55.081Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T08:42:55.081Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T08:42:55.090Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T08:42:55.091Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T08:42:55.092Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:42:56.448Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key '164917617125487',","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:42:56.451Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T08:42:56.452Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T10:55:22.247Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T10:55:23.115Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T10:55:50.045Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T10:55:50.046Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T10:55:50.055Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T10:55:50.056Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T10:55:50.057Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:55:51.602Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key '164917617125487',","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:55:51.604Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:55:51.606Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T10:59:11.300Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T10:59:11.300Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T10:59:11.302Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T10:59:11.303Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T10:59:11.304Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:59:12.658Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key '164917617125487',","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:59:12.659Z"}
+{"http_code":401,"level":"error","message":"Unknown API key '164917617125487',","name":"Error","service":"media-service","timestamp":"2025-04-01T10:59:12.661Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T11:01:17.045Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T11:01:18.051Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T11:01:24.814Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T11:01:24.814Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T11:01:24.823Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T11:01:24.825Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T11:01:24.826Z"}
+{"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T11:01:26.087Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Unknown API key 164917617125487,","name":"Error"},"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T11:01:26.089Z"}
+{"http_code":401,"level":"error","message":"Unknown API key 164917617125487,","name":"Error","service":"media-service","timestamp":"2025-04-01T11:01:26.090Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T11:03:07.355Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T11:03:07.883Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T11:03:16.792Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T11:03:16.793Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T11:03:16.802Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-09-21 092308.png, type=image/png","service":"media-service","timestamp":"2025-04-01T11:03:16.803Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T11:03:16.804Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - snyya0qt0gahnpg2ss7v","service":"media-service","timestamp":"2025-04-01T11:03:18.698Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-01T12:33:36.812Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-01T12:33:38.223Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-04-01T14:39:37.223Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:39:37.224Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T14:40:17.097Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:40:17.097Z"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"file","level":"error","message":"Unexpected field","name":"MulterError","service":"media-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:524:28)\n    at HeaderParser.cb (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:572:12)","storageErrors":[],"timestamp":"2025-04-01T14:40:17.108Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-04-01T14:40:25.630Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:40:25.631Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-04-01T14:41:34.609Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:41:34.610Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T14:42:32.821Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:42:32.822Z"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"file","level":"error","message":"Unexpected field","name":"MulterError","service":"media-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:524:28)\n    at HeaderParser.cb (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:572:12)","storageErrors":[],"timestamp":"2025-04-01T14:42:32.824Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T14:43:40.631Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:43:40.632Z"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"file","level":"error","message":"Unexpected field","name":"MulterError","service":"media-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:524:28)\n    at HeaderParser.cb (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\Nodejs-microservices-2025-master\\Nodejs-microservices-2025-master\\media-service\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:572:12)","storageErrors":[],"timestamp":"2025-04-01T14:43:40.635Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-01T14:45:33.405Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:45:33.406Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-01T14:45:33.409Z"}
+{"level":"info","message":"File details: name=Screenshot 2023-08-16 203513.png, type=image/png","service":"media-service","timestamp":"2025-04-01T14:45:33.410Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-01T14:45:33.411Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - xjhityoyn1fjn0nlxoa6","service":"media-service","timestamp":"2025-04-01T14:45:35.764Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-04-01T14:45:41.732Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-01T14:45:41.733Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-04T05:51:01.094Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-04T05:51:01.703Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-04-04T05:56:15.914Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-04T05:56:15.915Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-04-04T07:11:07.331Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-04-04T07:11:08.614Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-04T08:13:12.684Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-04T08:13:12.685Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-04T08:13:12.694Z"}
+{"level":"info","message":"File details: name=phto.jpg, type=image/jpeg","service":"media-service","timestamp":"2025-04-04T08:13:12.696Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-04T08:13:12.697Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - cl69jdkibkqslwkz4oer","service":"media-service","timestamp":"2025-04-04T08:13:14.426Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-04T09:28:18.801Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-04T09:28:18.803Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-04T09:28:18.806Z"}
+{"level":"info","message":"File details: name=phto.jpg, type=image/jpeg","service":"media-service","timestamp":"2025-04-04T09:28:18.807Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-04T09:28:18.807Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - bm9yhhvs1kjblqddoc1f","service":"media-service","timestamp":"2025-04-04T09:28:20.291Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-04T09:41:35.075Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-04T09:41:35.076Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-04T09:41:35.080Z"}
+{"level":"info","message":"File details: name=phto.jpg, type=image/jpeg","service":"media-service","timestamp":"2025-04-04T09:41:35.082Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-04T09:41:35.083Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - ked5l7e7trsb36ge2mos","service":"media-service","timestamp":"2025-04-04T09:41:36.822Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-04-04T09:56:30.003Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-04-04T09:56:30.004Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-04-04T09:56:30.007Z"}
+{"level":"info","message":"File details: name=phto.jpg, type=image/jpeg","service":"media-service","timestamp":"2025-04-04T09:56:30.009Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-04-04T09:56:30.010Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - jwuixhwaxaj3sncg8zi3","service":"media-service","timestamp":"2025-04-04T09:56:31.514Z"}
